@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/a58d6456cd.js"></script>
+</head>
+<body>
+<div class="header">
+    <div class="wrapper">
+        <div class="logo">
+            <h2>Start Bootstrap</h2>
+        </div>
+        <div class="menu">
+           <div class="ul">
+               <li>SERVICES</li>
+               <li>PORTFOLIO</li>
+               <li>TEAM</li>
+               <li>CONTACT</li>
+               <li>ABOUT</li>
+           </div>
+        </div>
+    </div>
+</div>
+<!-- STUDIO START -->
+<div class="clear"></div>
+<div class="studio">
+    <div class="wrapper">
+        <h3><i> Welcome To Our Studio!</i></h3>
+        <h1>IT'S NICE TO MEET YOU</h1>
+    <center>
+        <button class="btn">TELL ME MORE</button>
+    </center>
+    </div>
+</div>
+<!-- STUDIO END -->
+
+
+
+<!-- SERVICE START -->
+<div class="service">
+    <div class="wrapper">
+        <h2 class="xidmet">SERVICES</h2>
+        <h3 class="qiymet">Lorem ipsum dolor sit amet consectetur.</h3>
+        <div class="allicon">
+            <div class="icon-item">
+                    <i class="fas fa-gem fa-3x"></i>
+                <h3 class="reng">E-Commerce</h3>
+                <p class="fal">Lorem ipsum dolor ipsum dolor sit ipsum dolor sit ipsum dolor sit ipsum dolor sit sit amet, conelit. Mirchen maa impedit.</p>
+            </div>
+            <div class="icon-item">
+                    <i class="fas fa-laptop fa-3x"></i>
+                <h3 class="reng">Responsive Design</h3>
+                <p class="fal">Lorem ipsum dolor sit amet,con ipsum dolor sit ipsum dolor sits ipsum dolor sit ipsum dolor sit quo in dicta pedit.</p>
+            </div>
+            <div class="icon-item">
+                    <i class="fas fa-key fa-3x"></i>
+                <h3 class="reng">Web Security</h3>
+                <p class="fal">Lorem ipsum dolor sit ipsum dolor sit ipsum dolor sit ipsum dolor sit ipsum dolor sit amet,elit. Min ex, dicta impedit.</p>
+            </div>
+               </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<!-- SERVICE END -->
+    
+<!-- Project START -->
+
+<div class="project">
+    <div class="project-item">
+       <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/thumbnails/1.jpg" alt="Avatar" class="image">
+        </div>
+    <div class="project-item">
+        <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/2.jpg" alt="Avatar" class="image">
+    </div>
+    <div class="project-item">
+        <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/fullsize/3.jpg" alt="Avatar" class="image">
+    </div>
+    <div class="project-item">
+        <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/thumbnails/4.jpg" alt="Avatar" class="image">
+    </div>
+    <div class="project-item">
+      <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/thumbnails/5.jpg" alt="Avatar" class="image">  
+    </div>
+    <div class="project-item">
+        <img src="https://blackrockdigital.github.io/startbootstrap-creative/img/portfolio/thumbnails/6.jpg" alt="Avatar" class="image">
+    </div>
+    <div class="clear"></div>
+</div>
+
+<!-------- Project END --------->
+
+
+<!--------- DOWNLOAD START ------>
+<div class="clear"></div>
+<div class="download">
+    <div class="wrapper">
+        <h2 class="mb4">Free Download at Start Bootstrap!</h2>
+        <button class="btn1">DONWLOAD NOW!</button>
+    </div>
+    <div class="clear"></div>
+</div>
+<!---------- DOWNLOAD END ------->
+
+<!-- Contact start -->
+<div class="contact">
+    <div class="wrapper">
+        <h2>Let's Get In Touch!</h2>
+        <hr class="narinci">
+        <p>Ready to start your next project with us? Give us a call or send us an email and we will get<br>
+            back to you as soon as possible!</p>
+            <div class="allicon1">
+                <div class="icon-item1">
+                    <i class="fas fa-phone fa-3x"></i>
+                    <p>+1 (202) 555-0149</p>
+                </div>
+                <div class="icon-item1">
+                    <i class="fas fa-envelope fa-3x"></i>
+                    <p>contact@yourwebsite.com</p>
+                </div>
+            </div>
+        <div class="clear"></div>
+</div>
+</div>
+<!--------- Contact END ---------->
+
+
+
+<!--------- copy start -------->
+<div class="copyright">
+    <div class="wrapper">
+       <p> Copyright © 2019 - Start Bootstrap
+    </p>
+        </div>
+</div>
+<!--------- copy end ------->
+</body>
+</html>
